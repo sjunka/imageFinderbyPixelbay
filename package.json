@@ -2,7 +2,7 @@
   "name": "pixelfinder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sjunka.github.io/imageFinderbyPixelbay",
+  "homepage": "https://github.com/sjunka/imageFinderbyPixelbay",
   "dependencies": {
     "axios": "^0.18.0",
     "material-ui": "^0.20.1",
